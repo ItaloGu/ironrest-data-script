@@ -4,6 +4,8 @@ Utilize esse repositorio para preencher a sua coleção na IRONREST API com dado
 
 Passos: 
 
+- Clone esse repo e rode `npm install`
+
 - Vá até o arquivo *data.json* e preencha o array com OBJETOS da forma que deseja que eles fiquem salvos na API.
 
 - Vá até o arquivo *script.js* e atualize o conteudo da constante *colletionName* com o nome da coleção que deseja popular na API
